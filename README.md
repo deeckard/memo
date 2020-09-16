@@ -1,3 +1,3 @@
 ## memo
 
-A simple note taking extension.
+📝 simple note taking extension.
